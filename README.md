@@ -1,4 +1,3 @@
-# RuTo
 
 Our website helps people who are in a new city to decide where to visit with the time they have in hand. We first get the user's current location and use this to set a certain search radius, within which the user can look for the type of places they want to visit, such as restaurants, monuments, shops, and so on. The app then generates an itinerary for the user by analyzing the user's selections and also shows the shortest route possible that covers all the places so that the user doesn't waste time or money by taking a longer route.
 
